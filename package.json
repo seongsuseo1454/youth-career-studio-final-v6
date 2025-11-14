@@ -1,5 +1,5 @@
 {
-  "name": "youth-career-studio",
+  "name": "youth-career-studio-final",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3070",
